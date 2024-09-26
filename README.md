@@ -95,17 +95,8 @@ agent.print_status()
 
 
 ## Output:
-```
+![370968639-0ecbe20c-327a-4c76-abe6-d4332b85c83b](https://github.com/user-attachments/assets/31a8538e-6cad-4ec9-8312-5adf3bb06319)
 
-Location: A, Dirt Status: {'A': True, 'B': True}, Perfomance Measure: -1         
-Sucked dirt in location A
-Location: A, Dirt Status: {'A': False, 'B': True}, Perfomance Measure: 9
-Location: B, Dirt Status: {'A': False, 'B': True}, Perfomance Measure: 8
-Sucked dirt in location B
-Location: B, Dirt Status: {'A': False, 'B': False}, Perfomance Measure: 18
-Location: B, Dirt Status: {'A': False, 'B': False}, Perfomance Measure: 18 
-
-```
 ## Result:
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
 
