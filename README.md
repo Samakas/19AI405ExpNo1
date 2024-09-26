@@ -1,4 +1,8 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<br>
+<h3>Developed By: Samakash R S</h3>
+<h3>Register Number: 212223230182</h3>
+<br>
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -36,8 +40,6 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h3>Developed By: Samakash R S</h3>
-<h3>Register Number: 212223230182</h3>
 <h3>Program</h3>
 
 ```
